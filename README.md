@@ -1,2 +1,2 @@
 # steph-silvera.github.io
-Contact details
+Initial customization of profile with contact details
